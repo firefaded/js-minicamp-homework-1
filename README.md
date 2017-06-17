@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+	* Variables - A variable stores an object. Ex: If you want to use your name then in it would be name = "Jane" or store a number like number = 4.
+	* Strings - A string is just a sentence. Ex: "I am learning JavaScript"
+	* Functions (arguments, `return`) - A function allows you to repeat code and an argument is like the variable. If you want to greet multiple people it would be function greeting(name); greeting is the name of the function and name is the argument. greeting("Jane") would return Jane.
+	* `if` statements - an if statement has the computer choose a path such as if I want a sandwich then make sandwich. In code it would look like this: if (I want a sandwich) { make sandwich; }
+	* Boolean values (`true`, `false`) - A boolean has the computer check if something is true or false. An example would be if your name is Jane then return true or return false if your name is not Jane.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
